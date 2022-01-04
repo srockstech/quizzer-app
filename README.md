@@ -1,0 +1,1 @@
+This is a true-false quiz app that displays whether the last answer chosen by the user was right or wrong. It also calculates and displays the final score at the end.
